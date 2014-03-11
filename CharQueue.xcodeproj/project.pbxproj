@@ -13,7 +13,6 @@
 		6120245518CF817A004AD15F /* Test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6120244A18CF817A004AD15F /* Test.cpp */; };
 		6120245618CF817A004AD15F /* TestRegistry.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6120244D18CF817A004AD15F /* TestRegistry.cpp */; };
 		6120245718CF817A004AD15F /* TestResult.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6120244F18CF817A004AD15F /* TestResult.cpp */; };
-		6120245818CF817A004AD15F /* VectorTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6120245118CF817A004AD15F /* VectorTest.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,7 +40,6 @@
 		6120244E18CF817A004AD15F /* TestRegistry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestRegistry.h; sourceTree = "<group>"; };
 		6120244F18CF817A004AD15F /* TestResult.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TestResult.cpp; sourceTree = "<group>"; };
 		6120245018CF817A004AD15F /* TestResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestResult.h; sourceTree = "<group>"; };
-		6120245118CF817A004AD15F /* VectorTest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VectorTest.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +74,6 @@
 				6120244E18CF817A004AD15F /* TestRegistry.h */,
 				6120244F18CF817A004AD15F /* TestResult.cpp */,
 				6120245018CF817A004AD15F /* TestResult.h */,
-				6120245118CF817A004AD15F /* VectorTest.cpp */,
 			);
 			path = CharQueue;
 			sourceTree = "<group>";
@@ -138,7 +135,6 @@
 				6120245318CF817A004AD15F /* Main.cpp in Sources */,
 				6120245618CF817A004AD15F /* TestRegistry.cpp in Sources */,
 				6120245218CF817A004AD15F /* Failure.cpp in Sources */,
-				6120245818CF817A004AD15F /* VectorTest.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
